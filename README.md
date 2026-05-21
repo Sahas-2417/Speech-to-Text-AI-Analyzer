@@ -144,7 +144,8 @@ app.py
 src/ 
 ``` 
 `packages.txt` includes: 
-```txt ffmpeg 
+ffmpeg
+```txt
 ``` 
 This ensures that FFmpeg is available in the Streamlit Cloud environment. 
 --- 
