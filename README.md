@@ -178,6 +178,7 @@ Through this project, I learned:
 ---
 
 ## ⭐ Acknowledgement 
+---
 This project uses open-source Python libraries and AI/NLP tools to demonstrate how audio data can be converted into meaningful text-based insights. 
 --- 
 
