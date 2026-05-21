@@ -1,0 +1,1 @@
+ Artificial intelligence is transforming the way we interact with technology. This speech to text analyzer converts audio into text and uses national language processing to understand the transcript. It can detect sentiment, exact keywords and generate a short summary.
