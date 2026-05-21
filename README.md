@@ -95,7 +95,7 @@ streamlit run app.py
 --- 
 ## 🧠 How It Works 
 1. The user uploads an audio file.
-2. 2. The audio file is processed using Whisper.
+2. The audio file is processed using Whisper.
 3. Whisper converts speech into text. 
 4. The generated transcript is analyzed using NLP techniques. 
 5. Sentiment score is calculated using VADER Sentiment Analysis. 
