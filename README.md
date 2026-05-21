@@ -72,7 +72,8 @@ Speech-to-Text-AI-Analyzer/
 ## ⚙️ Installation & Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Speech-to-Text-AI-Analyzer.git cd Speech-to-Text-AI-Analyzer
+git clone https://github.com/YOUR_USERNAME/Speech-to-Text-AI-Analyzer.git 
+cd Speech-to-Text-AI-Analyzer
 ```
 ### 2. Install Dependencies 
 ```bash 
